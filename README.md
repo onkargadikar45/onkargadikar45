@@ -57,3 +57,6 @@
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=onkargadikar45&label=Profile%20Views&color=blue&style=flat" />
+</p>
