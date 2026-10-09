@@ -1,4 +1,4 @@
-<!-- ======================= HEADER ======================= -->
+**<!-- ======================= HEADER ======================= -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED+%3E%3E+ONKAR;Hello+World!+I'm+Onkar+Gadikar;Full+Stack+Developer+in+Progress;WELCOME+TO+MY+DIGITAL+WORLD" alt="Hacker Typing Animation" />
@@ -142,3 +142,4 @@ print(me.current_mission())
 </p>
 
 <h3 align="center">💚 THINK • CODE • BUILD • REPEAT 💚</h3>
+**
