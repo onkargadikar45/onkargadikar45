@@ -115,11 +115,9 @@ print(me.motto())
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/onkargadikar45/onkargadikar45/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onkargadikar45/onkargadikar45/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</p>
 
 
 ---
